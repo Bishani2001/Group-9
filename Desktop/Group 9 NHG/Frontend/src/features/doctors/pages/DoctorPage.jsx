@@ -1,3 +1,4 @@
+// Doctor Management Page
 import { useCallback, useEffect, useState } from "react";
 import DoctorHeader from "../components/DoctorHeader";
 import DoctorSearch from "../components/DoctorSearch";
